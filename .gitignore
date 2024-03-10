@@ -1,0 +1,13 @@
+/node_modules
+*.pyc
+**/__pycache__
+npm-debug.log
+.vs/
+debugpy*.log
+pydevd*.log
+dist/**
+# translation files
+*.xlf
+package.nls.*.json
+l10n/
+db.*
